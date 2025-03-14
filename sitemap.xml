@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://attilakrick.com/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
+    <loc>https://attilakrick.com/tags/automation/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://attilakrick.com/categories/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/cli/</loc>
+    <loc>https://attilakrick.com/tags/cli/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://attilakrick.com/posts/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/powershell/</loc>
+    <loc>https://attilakrick.com/categories/powershell/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/powershell/</loc>
+    <loc>https://attilakrick.com/tags/powershell/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/powershell7576/</loc>
+    <loc>https://attilakrick.com/posts/powershell7576/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/scripting/</loc>
+    <loc>https://attilakrick.com/tags/scripting/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://attilakrick.com/tags/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/.net/</loc>
+    <loc>https://attilakrick.com/tags/.net/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/leistungen/</loc>
+    <loc>https://attilakrick.com/leistungen/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/automatisierung/</loc>
+    <loc>https://attilakrick.com/tags/automatisierung/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>https://attilakrick.com/impressum/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/it-consulting/</loc>
+    <loc>https://attilakrick.com/tags/it-consulting/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/it-schulungen/</loc>
+    <loc>https://attilakrick.com/tags/it-schulungen/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/kontakt/</loc>
+    <loc>https://attilakrick.com/tags/kontakt/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>https://attilakrick.com/kontakt/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/softwareentwicklung/</loc>
+    <loc>https://attilakrick.com/tags/softwareentwicklung/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/t-sql/</loc>
+    <loc>https://attilakrick.com/tags/t-sql/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/bash/</loc>
+    <loc>https://attilakrick.com/tags/bash/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/eingabeaufforderung/</loc>
+    <loc>https://attilakrick.com/tags/eingabeaufforderung/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/psvsbash/</loc>
+    <loc>https://attilakrick.com/posts/psvsbash/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/vergleich/</loc>
+    <loc>https://attilakrick.com/tags/vergleich/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://attilakrick.com/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
