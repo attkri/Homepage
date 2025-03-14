@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Updates on Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+    <link>http://localhost:1313/categories/updates/</link>
+    <description>Recent content in Updates on Attila Krick - Experte für PowerShell, T-SQL und .NET</description>
+    <image>
+      <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+      <url>http://localhost:1313/images/seo-thumbnail.png</url>
+      <link>http://localhost:1313/images/seo-thumbnail.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerShell 7.6 Preview: Neue Funktionen, Verbesserungen &amp; PowerShell 7.5 Überblick</title>
+      <link>http://localhost:1313/posts/powershell7576/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/powershell7576/</guid>
+      <description>Ein Überblick über die neuen Features, Verbesserungen und bekannten Probleme in PowerShell 7.6 Preview sowie PowerShell 7.5.</description>
+    </item>
+  </channel>
+</rss>

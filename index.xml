@@ -14,42 +14,11 @@
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://attilakrick.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unterschiede zwischen PowerShell und anderen Shells</title>
-      <link>https://attilakrick.com/posts/psvsbash/</link>
+      <title>PowerShell 7.5 und 7.6</title>
+      <link>https://attilakrick.com/posts/powershell7576/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/posts/psvsbash/</guid>
-      <description>&lt;h2 id=&#34;unterschiede-zwischen-powershell-und-anderen-shells-wie-der-eingabeaufforderung-oder-bash&#34;&gt;Unterschiede zwischen PowerShell und anderen Shells wie der Eingabeaufforderung oder Bash&lt;/h2&gt;
-&lt;p&gt;PowerShell, die Windows-Eingabeaufforderung (CMD) und Bash sind drei verschiedene Shell-Umgebungen, die jeweils unterschiedliche Einsatzbereiche und Funktionen haben. In diesem Artikel vergleichen wir diese Shells und beleuchten die wichtigsten Unterschiede.&lt;/p&gt;
-&lt;h3 id=&#34;1-grundlegendes-konzept&#34;&gt;1. Grundlegendes Konzept&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Shell&lt;/th&gt;
-          &lt;th&gt;Basis-Technologie&lt;/th&gt;
-          &lt;th&gt;Hauptplattform&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;PowerShell&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Objektbasiert (OOP)&lt;/td&gt;
-          &lt;td&gt;Windows, Linux, macOS&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;CMD (Eingabeaufforderung)&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Textbasiert&lt;/td&gt;
-          &lt;td&gt;Windows&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Bash&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Textbasiert&lt;/td&gt;
-          &lt;td&gt;Linux, macOS&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;2-unterschiede-in-der-syntax&#34;&gt;2. Unterschiede in der Syntax&lt;/h3&gt;
-&lt;h4 id=&#34;powershell-objektbasiert&#34;&gt;PowerShell: Objektbasiert&lt;/h4&gt;
-&lt;p&gt;PowerShell arbeitet mit &lt;strong&gt;Objekten&lt;/strong&gt;, nicht nur mit Text. Das bedeutet, dass Befehle strukturierte Daten ausgeben, die einfach weiterverarbeitet werden können.&lt;/p&gt;</description>
+      <guid>https://attilakrick.com/posts/powershell7576/</guid>
+      <description>Ein Überblick über die neuen Features, Verbesserungen und bekannten Probleme in PowerShell 7.6 sowie PowerShell 7.5.</description>
     </item>
     <item>
       <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
@@ -84,6 +53,44 @@ Vinkrath, 47292 Grefrath&lt;/p&gt;
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/kontakt/</guid>
       <description>Du hast Fragen oder möchtest ein unverbindliches Beratungsgespräch?  </description>
+    </item>
+    <item>
+      <title>Unterschiede zwischen PowerShell und anderen Shells</title>
+      <link>https://attilakrick.com/posts/psvsbash/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/posts/psvsbash/</guid>
+      <description>&lt;h2 id=&#34;unterschiede-zwischen-powershell-und-anderen-shells-wie-der-eingabeaufforderung-oder-bash&#34;&gt;Unterschiede zwischen PowerShell und anderen Shells wie der Eingabeaufforderung oder Bash&lt;/h2&gt;
+&lt;p&gt;PowerShell, die Windows-Eingabeaufforderung (CMD) und Bash sind drei verschiedene Shell-Umgebungen, die jeweils unterschiedliche Einsatzbereiche und Funktionen haben. In diesem Artikel vergleichen wir diese Shells und beleuchten die wichtigsten Unterschiede.&lt;/p&gt;
+&lt;h3 id=&#34;1-grundlegendes-konzept&#34;&gt;1. Grundlegendes Konzept&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Shell&lt;/th&gt;
+          &lt;th&gt;Basis-Technologie&lt;/th&gt;
+          &lt;th&gt;Hauptplattform&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;PowerShell&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Objektbasiert (OOP)&lt;/td&gt;
+          &lt;td&gt;Windows, Linux, macOS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CMD (Eingabeaufforderung)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Textbasiert&lt;/td&gt;
+          &lt;td&gt;Windows&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bash&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Textbasiert&lt;/td&gt;
+          &lt;td&gt;Linux, macOS&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2-unterschiede-in-der-syntax&#34;&gt;2. Unterschiede in der Syntax&lt;/h3&gt;
+&lt;h4 id=&#34;powershell-objektbasiert&#34;&gt;PowerShell: Objektbasiert&lt;/h4&gt;
+&lt;p&gt;PowerShell arbeitet mit &lt;strong&gt;Objekten&lt;/strong&gt;, nicht nur mit Text. Das bedeutet, dass Befehle strukturierte Daten ausgeben, die einfach weiterverarbeitet werden können.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
