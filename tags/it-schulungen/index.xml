@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IT-Schulungen on Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+    <link>https://attilakrick.com/tags/it-schulungen/</link>
+    <description>Recent content in IT-Schulungen on Attila Krick - Experte für PowerShell, T-SQL und .NET</description>
+    <image>
+      <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+      <url>https://attilakrick.com/images/seo-thumbnail.png</url>
+      <link>https://attilakrick.com/images/seo-thumbnail.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://attilakrick.com/tags/it-schulungen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+      <link>https://attilakrick.com/leistungen/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/leistungen/</guid>
+      <description>PowerShell, .NET und SQL - Schulungen, Entwicklung &amp;amp; Automatisierung</description>
+    </item>
+  </channel>
+</rss>

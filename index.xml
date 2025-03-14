@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+    <link>https://attilakrick.com/</link>
+    <description>Recent content on Attila Krick - Experte für PowerShell, T-SQL und .NET</description>
+    <image>
+      <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+      <url>https://attilakrick.com/images/seo-thumbnail.png</url>
+      <link>https://attilakrick.com/images/seo-thumbnail.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://attilakrick.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unterschiede zwischen PowerShell und anderen Shells</title>
+      <link>https://attilakrick.com/posts/psvsbash/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/posts/psvsbash/</guid>
+      <description>&lt;h2 id=&#34;unterschiede-zwischen-powershell-und-anderen-shells-wie-der-eingabeaufforderung-oder-bash&#34;&gt;Unterschiede zwischen PowerShell und anderen Shells wie der Eingabeaufforderung oder Bash&lt;/h2&gt;
+&lt;p&gt;PowerShell, die Windows-Eingabeaufforderung (CMD) und Bash sind drei verschiedene Shell-Umgebungen, die jeweils unterschiedliche Einsatzbereiche und Funktionen haben. In diesem Artikel vergleichen wir diese Shells und beleuchten die wichtigsten Unterschiede.&lt;/p&gt;
+&lt;h3 id=&#34;1-grundlegendes-konzept&#34;&gt;1. Grundlegendes Konzept&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Shell&lt;/th&gt;
+          &lt;th&gt;Basis-Technologie&lt;/th&gt;
+          &lt;th&gt;Hauptplattform&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;PowerShell&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Objektbasiert (OOP)&lt;/td&gt;
+          &lt;td&gt;Windows, Linux, macOS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CMD (Eingabeaufforderung)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Textbasiert&lt;/td&gt;
+          &lt;td&gt;Windows&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bash&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Textbasiert&lt;/td&gt;
+          &lt;td&gt;Linux, macOS&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;2-unterschiede-in-der-syntax&#34;&gt;2. Unterschiede in der Syntax&lt;/h3&gt;
+&lt;h4 id=&#34;powershell-objektbasiert&#34;&gt;PowerShell: Objektbasiert&lt;/h4&gt;
+&lt;p&gt;PowerShell arbeitet mit &lt;strong&gt;Objekten&lt;/strong&gt;, nicht nur mit Text. Das bedeutet, dass Befehle strukturierte Daten ausgeben, die einfach weiterverarbeitet werden können.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
+      <link>https://attilakrick.com/leistungen/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/leistungen/</guid>
+      <description>PowerShell, .NET und SQL - Schulungen, Entwicklung &amp;amp; Automatisierung</description>
+    </item>
+    <item>
+      <title>Impressum &amp; Datenschutz</title>
+      <link>https://attilakrick.com/impressum/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/impressum/</guid>
+      <description>&lt;h2 id=&#34;impressum&#34;&gt;&lt;strong&gt;Impressum&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attila Krick&lt;/strong&gt;&lt;br&gt;
+An der Schanze 20&lt;br&gt;
+Vinkrath, 47292 Grefrath&lt;/p&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:info@attilakrick.com&#34;&gt;info@attilakrick.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;verantwortlich-für-den-inhalt-gemäß--55-abs-2-rstv&#34;&gt;&lt;strong&gt;Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attila Krick&lt;/strong&gt;&lt;br&gt;
+(Adresse wie oben)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;haftungsausschluss&#34;&gt;&lt;strong&gt;Haftungsausschluss&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt. Dennoch übernehme ich keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen.&lt;/p&gt;
+&lt;p&gt;Für externe Links zu fremden Websites übernehme ich keine Haftung. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt aufnehmen</title>
+      <link>https://attilakrick.com/kontakt/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/kontakt/</guid>
+      <description>Du hast Fragen oder möchtest ein unverbindliches Beratungsgespräch?  </description>
+    </item>
+  </channel>
+</rss>
