@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
-    <link>https://attilakrick.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Attila Krick - Experte für PowerShell, T-SQL und .NET</description>
     <image>
       <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
-      <url>https://attilakrick.com/images/seo-thumbnail.png</url>
-      <link>https://attilakrick.com/images/seo-thumbnail.png</link>
+      <url>http://localhost:1313/images/seo-thumbnail.png</url>
+      <link>http://localhost:1313/images/seo-thumbnail.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://attilakrick.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PowerShell 7.5 und 7.6</title>
-      <link>https://attilakrick.com/posts/powershell7576/</link>
+      <link>http://localhost:1313/posts/powershell7576/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/posts/powershell7576/</guid>
+      <guid>http://localhost:1313/posts/powershell7576/</guid>
       <description>Ein Überblick über die neuen Features, Verbesserungen und bekannten Probleme in PowerShell 7.6 sowie PowerShell 7.5.</description>
     </item>
     <item>
       <title>Attila Krick - Experte für PowerShell, T-SQL und .NET</title>
-      <link>https://attilakrick.com/leistungen/</link>
+      <link>http://localhost:1313/leistungen/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/leistungen/</guid>
+      <guid>http://localhost:1313/leistungen/</guid>
       <description>PowerShell, .NET und SQL - Schulungen, Entwicklung &amp;amp; Automatisierung</description>
     </item>
     <item>
       <title>Impressum &amp; Datenschutz</title>
-      <link>https://attilakrick.com/impressum/</link>
+      <link>http://localhost:1313/impressum/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/impressum/</guid>
+      <guid>http://localhost:1313/impressum/</guid>
       <description>&lt;h2 id=&#34;impressum&#34;&gt;&lt;strong&gt;Impressum&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Attila Krick&lt;/strong&gt;&lt;br&gt;
@@ -49,16 +49,16 @@ Vinkrath, 47292 Grefrath&lt;/p&gt;
     </item>
     <item>
       <title>Kontakt aufnehmen</title>
-      <link>https://attilakrick.com/kontakt/</link>
+      <link>http://localhost:1313/kontakt/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/kontakt/</guid>
+      <guid>http://localhost:1313/kontakt/</guid>
       <description>Du hast Fragen oder möchtest ein unverbindliches Beratungsgespräch?  </description>
     </item>
     <item>
       <title>Unterschiede zwischen PowerShell und anderen Shells</title>
-      <link>https://attilakrick.com/posts/psvsbash/</link>
+      <link>http://localhost:1313/posts/psvsbash/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/posts/psvsbash/</guid>
+      <guid>http://localhost:1313/posts/psvsbash/</guid>
       <description>&lt;h2 id=&#34;unterschiede-zwischen-powershell-und-anderen-shells-wie-der-eingabeaufforderung-oder-bash&#34;&gt;Unterschiede zwischen PowerShell und anderen Shells wie der Eingabeaufforderung oder Bash&lt;/h2&gt;
 &lt;p&gt;PowerShell, die Windows-Eingabeaufforderung (CMD) und Bash sind drei verschiedene Shell-Umgebungen, die jeweils unterschiedliche Einsatzbereiche und Funktionen haben. In diesem Artikel vergleichen wir diese Shells und beleuchten die wichtigsten Unterschiede.&lt;/p&gt;
 &lt;h3 id=&#34;1-grundlegendes-konzept&#34;&gt;1. Grundlegendes Konzept&lt;/h3&gt;
