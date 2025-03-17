@@ -1,12 +1,3 @@
 User-agent: *
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-Disallow: /categories/
-Disallow: /posts/
-Disallow: /search/
-Disallow: /tags/
-Disallow: /404.html
-{{- else }}
-Disallow: /
-{{- end }}
-
-Sitemap: {{ "sitemap.xml" | absURL }}
+Disallow:
+Sitemap: https://attilakrick.com/sitemap.xml
