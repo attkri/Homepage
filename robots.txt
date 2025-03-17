@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /categories/
-Disallow: /search/
+Disallow:
+Sitemap: https://attilakrick.com/sitemap.xml
