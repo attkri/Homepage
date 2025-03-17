@@ -21,10 +21,24 @@
       <description>Nimm Kontakt auf mit Attila Krick - Experte für PowerShell, .NET und T-SQL. Beratung, Schulungen und individuelle IT-Lösungen.</description>
     </item>
     <item>
-      <title>PowerShell 7.5 und 7.6</title>
-      <link>https://attilakrick.com/posts/powershell7576/</link>
+      <title>Wie man die PowerShell-Hilfe benutzt</title>
+      <link>https://attilakrick.com/posts/powershell-hilfe_nutzen/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/posts/powershell-hilfe_nutzen/</guid>
+      <description>Eine umfassende Anleitung zur Verwendung der integrierten Hilfe in PowerShell zur effizienten Befehlssuche und Nutzung.</description>
+    </item>
+    <item>
+      <title>PowerShell-Scripting Best Practices - Effiziente Automatisierung und Sicherheit</title>
+      <link>https://attilakrick.com/posts/best_practices_powershell_skripting/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/posts/best_practices_powershell_skripting/</guid>
+      <description>Die besten Methoden für PowerShell-Skripting, inklusive Fehlerbehandlung, Sicherheitsrichtlinien und Performance-Optimierung.</description>
+    </item>
+    <item>
+      <title>Neuerungen PowerShell 7.5 und 7.6</title>
+      <link>https://attilakrick.com/posts/neuerungen_powershell_75_76/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/posts/powershell7576/</guid>
+      <guid>https://attilakrick.com/posts/neuerungen_powershell_75_76/</guid>
       <description>Ein Überblick über die neuen Features, Verbesserungen und bekannten Probleme in PowerShell 7.6 sowie PowerShell 7.5.</description>
     </item>
     <item>
@@ -56,9 +70,9 @@ Vinkrath, 47292 Grefrath&lt;/p&gt;
     </item>
     <item>
       <title>Unterschiede zwischen PowerShell und anderen Shells</title>
-      <link>https://attilakrick.com/posts/psvsbash/</link>
+      <link>https://attilakrick.com/posts/unterschied_ps_vs_bash/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/posts/psvsbash/</guid>
+      <guid>https://attilakrick.com/posts/unterschied_ps_vs_bash/</guid>
       <description>&lt;h2 id=&#34;unterschiede-zwischen-powershell-und-anderen-shells-wie-der-eingabeaufforderung-oder-bash&#34;&gt;Unterschiede zwischen PowerShell und anderen Shells wie der Eingabeaufforderung oder Bash&lt;/h2&gt;
 &lt;p&gt;PowerShell, die Windows-Eingabeaufforderung (CMD) und Bash sind drei verschiedene Shell-Umgebungen, die jeweils unterschiedliche Einsatzbereiche und Funktionen haben. In diesem Artikel vergleichen wir diese Shells und beleuchten die wichtigsten Unterschiede.&lt;/p&gt;
 &lt;h3 id=&#34;1-grundlegendes-konzept&#34;&gt;1. Grundlegendes Konzept&lt;/h3&gt;
