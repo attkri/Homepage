@@ -14,10 +14,38 @@
     <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://attilakrick.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>.NET</title>
+      <link>https://attilakrick.com/tags/.net/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/.net/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Debugging</title>
       <link>https://attilakrick.com/tags/debugging/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/tags/debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EF Core</title>
+      <link>https://attilakrick.com/tags/ef-core/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/ef-core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entity Framework</title>
+      <link>https://attilakrick.com/tags/entity-framework/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/entity-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ORM</title>
+      <link>https://attilakrick.com/tags/orm/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/orm/</guid>
       <description></description>
     </item>
     <item>
@@ -39,6 +67,13 @@
       <link>https://attilakrick.com/tags/skripting/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/tags/skripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://attilakrick.com/tags/sql/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/sql/</guid>
       <description></description>
     </item>
     <item>

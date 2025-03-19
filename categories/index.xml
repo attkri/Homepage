@@ -14,10 +14,38 @@
     <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://attilakrick.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>.NET</title>
+      <link>https://attilakrick.com/categories/.net/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/categories/.net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datenbanken</title>
+      <link>https://attilakrick.com/categories/datenbanken/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/categories/datenbanken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entity Framework</title>
+      <link>https://attilakrick.com/categories/entity-framework/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/categories/entity-framework/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>PowerShell</title>
       <link>https://attilakrick.com/categories/powershell/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/categories/powershell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>T-SQL</title>
+      <link>https://attilakrick.com/categories/t-sql/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/categories/t-sql/</guid>
       <description></description>
     </item>
   </channel>
