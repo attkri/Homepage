@@ -1,23 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Attila Krick - PowerShell, T-SQL und .NET Experte</title>
+    <title>Tags on Attila Krick</title>
     <link>https://attilakrick.com/tags/</link>
-    <description>Recent content in Tags on Attila Krick - PowerShell, T-SQL und .NET Experte</description>
+    <description>Recent content in Tags on Attila Krick</description>
     <image>
-      <title>Attila Krick - PowerShell, T-SQL und .NET Experte</title>
+      <title>Attila Krick</title>
       <url>https://attilakrick.com/images/seo-thumbnail.png</url>
       <link>https://attilakrick.com/images/seo-thumbnail.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://attilakrick.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>.NET</title>
-      <link>https://attilakrick.com/tags/.net/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/.net/</guid>
+      <title>Automatisierung</title>
+      <link>https://attilakrick.com/tags/automatisierung/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/automatisierung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DotNET</title>
+      <link>https://attilakrick.com/tags/dotnet/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/dotnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT-Consulting</title>
+      <link>https://attilakrick.com/tags/it-consulting/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/it-consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IT-Schulungen</title>
+      <link>https://attilakrick.com/tags/it-schulungen/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/it-schulungen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PowerShell</title>
+      <link>https://attilakrick.com/tags/powershell/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/powershell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Softwareentwicklung</title>
+      <link>https://attilakrick.com/tags/softwareentwicklung/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/softwareentwicklung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>T-SQL</title>
+      <link>https://attilakrick.com/tags/t-sql/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/t-sql/</guid>
       <description></description>
     </item>
     <item>
@@ -25,34 +67,6 @@
       <link>https://attilakrick.com/tags/debugging/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/tags/debugging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EF Core</title>
-      <link>https://attilakrick.com/tags/ef-core/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/ef-core/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Entity Framework</title>
-      <link>https://attilakrick.com/tags/entity-framework/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/entity-framework/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ORM</title>
-      <link>https://attilakrick.com/tags/orm/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/orm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PowerShell</title>
-      <link>https://attilakrick.com/tags/powershell/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
@@ -67,13 +81,6 @@
       <link>https://attilakrick.com/tags/skripting/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/tags/skripting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SQL</title>
-      <link>https://attilakrick.com/tags/sql/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/sql/</guid>
       <description></description>
     </item>
     <item>
@@ -119,13 +126,6 @@
       <description></description>
     </item>
     <item>
-      <title>Automatisierung</title>
-      <link>https://attilakrick.com/tags/automatisierung/</link>
-      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/automatisierung/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Best Practices</title>
       <link>https://attilakrick.com/tags/best-practices/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
@@ -154,41 +154,6 @@
       <description></description>
     </item>
     <item>
-      <title>DotNET</title>
-      <link>https://attilakrick.com/tags/dotnet/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/dotnet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IT-Consulting</title>
-      <link>https://attilakrick.com/tags/it-consulting/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/it-consulting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IT-Schulungen</title>
-      <link>https://attilakrick.com/tags/it-schulungen/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/it-schulungen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Softwareentwicklung</title>
-      <link>https://attilakrick.com/tags/softwareentwicklung/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/softwareentwicklung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>T-SQL</title>
-      <link>https://attilakrick.com/tags/t-sql/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://attilakrick.com/tags/t-sql/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Bash</title>
       <link>https://attilakrick.com/tags/bash/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
@@ -207,6 +172,13 @@
       <link>https://attilakrick.com/tags/vergleich/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://attilakrick.com/tags/vergleich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entity Framework</title>
+      <link>https://attilakrick.com/tags/entity-framework/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://attilakrick.com/tags/entity-framework/</guid>
       <description></description>
     </item>
   </channel>
